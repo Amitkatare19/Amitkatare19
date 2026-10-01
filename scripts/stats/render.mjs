@@ -9,6 +9,8 @@ const fmtDate = (iso) => {
   return `${d.getUTCDate()} ${MONTHS[d.getUTCMonth()]} ${d.getUTCFullYear()}`;
 };
 
+const dayCount = (n) => `${n} ${n === 1 ? "day" : "days"}`;
+
 function level(count, max) {
   if (count === 0) return 0;
   const r = count / max;
@@ -39,8 +41,8 @@ export function renderStatsCard(data) {
   const tiles = [
     { label: "All-time contributions", value: fmt(data.allTime), sub: `Since ${data.sinceYear}`, icon: "🏆" },
     { label: "Last 12 months", value: fmt(data.lastYear), sub: data.bestDay.count ? `Best day: ${data.bestDay.count} on ${fmtDate(data.bestDay.date)}` : "Keep shipping 🚀", icon: "📈" },
-    { label: "Current streak", value: `${data.currentStreak.days} days`, sub: range(data.currentStreak), icon: "🔥" },
-    { label: "Longest streak", value: `${data.longestStreak.days} days`, sub: range(data.longestStreak), icon: "⚡" },
+    { label: "Current streak", value: dayCount(data.currentStreak.days), sub: range(data.currentStreak), icon: "🔥" },
+    { label: "Longest streak", value: dayCount(data.longestStreak.days), sub: range(data.longestStreak), icon: "⚡" },
   ];
 
   const tileSvg = tiles
