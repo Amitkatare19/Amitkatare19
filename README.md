@@ -32,31 +32,6 @@
 
 <br/>
 
-<img src="assets/h-activity.svg" width="100%" alt="03 — Commit pulse" />
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Amitkatare19/Amitkatare19/output/stats.svg" width="100%" alt="Contribution dashboard — all-time, last 12 months, current and longest streak" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Amitkatare19/Amitkatare19/output/github-snake-dark.svg" width="100%" alt="Contribution snake" />
-</p>
-
-<br/>
-
-<img src="assets/h-projects.svg" width="100%" alt="04 — Built for fun" />
-
-<p align="center">
-  <a href="https://github.com/Amitkatare19/E-commerce-Website-React"><img src="assets/p-ecommerce.svg" width="49%" alt="E-commerce Website" /></a>
-  <a href="https://github.com/Amitkatare19/Full-Stack-Project"><img src="assets/p-fullstack.svg" width="49%" alt="Full-Stack Project" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/Amitkatare19/Stock-Preditor"><img src="assets/p-stock.svg" width="49%" alt="Stock Predictor" /></a>
-  <a href="https://github.com/Amitkatare19?tab=repositories&q=prompt"><img src="assets/p-ui-challenge.svg" width="49%" alt="30-Day UI Challenge" /></a>
-</p>
-
-<br/>
-
 <p align="center">
   <img src="assets/footer.svg" width="100%" alt="Code it. Ship it. Make it move." />
 </p>
