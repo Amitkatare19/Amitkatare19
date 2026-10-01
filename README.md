@@ -46,3 +46,9 @@ Hi, I'm Amit — a full-stack engineer at **eSampark Tech Solutions** in Gurugra
   <a href="https://medh.co"><img src="assets/btn-medh.png" width="24%" alt="medh.co" /></a>
   <a href="https://esampark.biz"><img src="assets/btn-esampark.png" width="24%" alt="esampark.biz" /></a>
 </p>
+
+<br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Amitkatare19&label=Profile%20views&color=8B5CF6&style=for-the-badge" alt="Profile views" />
+</p>
