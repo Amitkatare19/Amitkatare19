@@ -49,10 +49,8 @@ Hi, I'm Amit — a full-stack engineer at **eSampark Tech Solutions** in Gurugra
 ### Get in touch
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/amit-katare-a412a425a"><img src="assets/btn-linkedin.png" width="24%" alt="LinkedIn" /></a>
-  <a href="mailto:akatare098@gmail.com"><img src="assets/btn-email.png" width="24%" alt="Email" /></a>
-  <a href="https://medh.co"><img src="assets/btn-medh.png" width="24%" alt="medh.co" /></a>
-  <a href="https://esampark.biz"><img src="assets/btn-esampark.png" width="24%" alt="esampark.biz" /></a>
+  <a href="https://www.linkedin.com/in/amit-katare-a412a425a"><img src="assets/btn-linkedin.png" width="32%" alt="LinkedIn" /></a>
+  <a href="mailto:akatare098@gmail.com"><img src="assets/btn-email.png" width="32%" alt="Email" /></a>
 </p>
 
 <br/>
