@@ -31,10 +31,10 @@ Hi, I'm Amit — a full-stack engineer at **eSampark Tech Solutions** in Gurugra
 ### Tech stack
 
 <p align="center">
-  <img src="assets/stack.png" width="100%" alt="Tech stack: TypeScript, Next.js, React, Tailwind, Redux Saga, MUI, Node.js, Express, MongoDB, Redis, Socket.IO, WebRTC, AWS, Docker, Nginx, GitHub Actions, PM2, Linux, Razorpay, Sentry, Prometheus, Grafana, Postman, Git" />
+  <img src="assets/stack.png" width="100%" alt="Detailed tech stack across Medh and eSampark: languages, frontend, state and forms, motion, backend, real-time and media, auth and security, integrations, content and docs, AWS, DevOps, monitoring and QA" />
 </p>
 
-<sub>Also in the mix: BullMQ, Zod, TanStack Query, Tiptap, GSAP, Framer Motion, Zoom SDK, BigBlueButton, Twilio, OpenAI and Jaeger.</sub>
+<sub>Every tool above is used in production on <a href="https://medh.co">Medh</a> or <a href="https://esampark.biz">eSampark</a>. Day-to-day tooling: Git, VS Code / Cursor, ESLint, Prettier, Husky, Snyk and Postman / Newman.</sub>
 
 <br/><br/>
 
