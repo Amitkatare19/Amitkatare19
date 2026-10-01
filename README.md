@@ -1,41 +1,52 @@
-<p align="center">
-  <img src="assets/hero.svg" width="100%" alt="Amit Katare — Software Development Engineer at eSampark Tech Solutions, Gurugram" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/amit-katare-a412a425a"><img src="assets/btn-linkedin.svg" width="24%" alt="LinkedIn" /></a>
-  <a href="mailto:akatare098@gmail.com"><img src="assets/btn-email.svg" width="24%" alt="Email" /></a>
-  <a href="https://medh.co"><img src="assets/btn-medh.svg" width="24%" alt="medh.co" /></a>
-  <a href="https://esampark.biz"><img src="assets/btn-esampark.svg" width="24%" alt="esampark.biz" /></a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
+  <img src="assets/banner-light.svg" width="100%" alt="Amit Katare. I build the software behind Medh and eSampark." />
+</picture>
 
 <br/>
 
-<img src="assets/h-work.svg" width="100%" alt="01 — Where I build" />
+Hi, I'm Amit. I've been a software development engineer at **eSampark Tech Solutions** in Gurugram since August 2025. I usually own a feature end to end: the Mongo schema, the API, the admin screen, and the bit of UI people actually see.
 
-<p align="center">
-  <img src="assets/experience.svg" width="100%" alt="Software Development Engineer at eSampark Tech Solutions Pvt Ltd · Gurugram, Haryana · Aug 2025 – Present" />
-</p>
+### What I'm working on
 
-<p align="center">
-  <a href="https://medh.co"><img src="assets/medh.svg" width="49%" alt="Medh — Global EdTech Platform" /></a>
-  <a href="https://esampark.biz"><img src="assets/esampark.svg" width="49%" alt="eSampark — AI-driven BPO & Contact Center" /></a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[Medh](https://medh.co)**<br/>
+<sub>An edtech platform with live classes and mentorship.</sub>
+
+- Batch scheduling, demo bookings and reschedules across timezones
+- Razorpay payments, EMI, renewals and receipts
+- Instructor payroll, attendance and leave
+- A sales dialer with live call monitoring over WebRTC and Socket.IO
+
+</td>
+<td width="50%" valign="top">
+
+**[eSampark](https://esampark.biz)**<br/>
+<sub>A BPO and contact-center company.</sub>
+
+- The company website, on Next.js 16 and React 19
+- An admin CMS for pages, blog, careers and leads
+- Users, roles, audit log and a restorable bin
+- Redux Saga on the client, Zod-validated APIs on the server
+
+</td>
+</tr>
+</table>
+
+### Stack
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,redux,nodejs,express,mongodb,redis,aws,docker,nginx,githubactions&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,redux,nodejs,express,mongodb,redis,aws,docker,nginx,githubactions&theme=light" alt="TypeScript, JavaScript, Next.js, React, Tailwind, Redux, Node.js, Express, MongoDB, Redis, AWS, Docker, Nginx, GitHub Actions" />
+</picture>
 
 <br/>
 
-<img src="assets/h-stack.svg" width="100%" alt="02 — Tools I ship with" />
+Also in the mix: BullMQ, Socket.IO, WebRTC, Razorpay, Zoom SDK, Tiptap, GSAP, PM2, Prometheus and Grafana.
 
-<p align="center">
-  <img src="assets/stack.svg" width="100%" alt="Tech stack across Medh and eSampark — frontend, backend, real-time, cloud, motion and monitoring" />
-</p>
+### Elsewhere
 
-<br/>
-
-<p align="center">
-  <img src="assets/footer.svg" width="100%" alt="Code it. Ship it. Make it move." />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Amitkatare19&label=Profile%20views&color=7F5AF0&style=flat-square" alt="Profile views" />
-</p>
+[LinkedIn](https://www.linkedin.com/in/amit-katare-a412a425a) · [Email](mailto:akatare098@gmail.com) · [medh.co](https://medh.co) · [esampark.biz](https://esampark.biz)
