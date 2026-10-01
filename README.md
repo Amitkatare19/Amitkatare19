@@ -1,26 +1,48 @@
 <p align="center">
-  <img src="assets/banner.png" width="100%" alt="Amit Katare — Software Development Engineer at eSampark Tech Solutions, Gurugram. Building Medh and eSampark." />
+  <img src="assets/banner.png" width="100%" alt="Amit Katare — Software Development Engineer at eSampark Tech Solutions, building Medh and eSampark" />
 </p>
 
 <br/>
 
-Hi, I'm Amit. I've been a software development engineer at **eSampark Tech Solutions** in Gurugram since August 2025. I usually own a feature end to end: the Mongo schema, the API, the admin screen, and the UI people actually use.
+Hi, I'm Amit — a full-stack engineer at **eSampark Tech Solutions** in Gurugram, working there since **August 2025**. I build and run two products in production: **Medh**, a global edtech platform, and **eSampark**, an AI-driven BPO and contact-center company. Most of my work is owning a feature end to end — the MongoDB schema, the REST API, the admin screen, and the UI people actually use — and shipping it through staging to production.
 
-### Work
+<br/>
+
+### Experience
 
 <p align="center">
-  <a href="https://medh.co"><img src="assets/medh.png" width="49%" alt="Medh — EdTech platform for live classes and mentorship" /></a>
-  <a href="https://esampark.biz"><img src="assets/esampark.png" width="49%" alt="eSampark — AI-driven BPO and contact-center company" /></a>
+  <img src="assets/experience.png" width="100%" alt="Software Development Engineer, eSampark Tech Solutions Pvt Ltd, Aug 2025 – Present, Gurugram" />
 </p>
 
-### Stack
+<br/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,redux,nodejs,express,mongodb,redis,aws,docker,nginx,githubactions&theme=dark" alt="TypeScript, JavaScript, Next.js, React, Tailwind, Redux, Node.js, Express, MongoDB, Redis, AWS, Docker, Nginx, GitHub Actions" />
+### Selected work
+
+<p align="center">
+  <a href="https://medh.co"><img src="assets/case-medh.png" width="100%" alt="Medh — global edtech platform: scheduling, demo booking, payments, payroll and a live sales dialer" /></a>
 </p>
 
-Also in the mix: BullMQ, Socket.IO, WebRTC, Razorpay, Zoom SDK, Tiptap, GSAP, PM2, Prometheus and Grafana.
+<p align="center">
+  <a href="https://esampark.biz"><img src="assets/case-esampark.png" width="100%" alt="eSampark — AI-driven BPO: Next.js 16 website, admin CMS, careers, leads and audit log" /></a>
+</p>
 
-### Contact
+<br/>
 
-[LinkedIn](https://www.linkedin.com/in/amit-katare-a412a425a) · [Email](mailto:akatare098@gmail.com) · [medh.co](https://medh.co) · [esampark.biz](https://esampark.biz)
+### Tech stack
+
+<p align="center">
+  <img src="assets/stack.png" width="100%" alt="Tech stack: TypeScript, Next.js, React, Tailwind, Redux Saga, MUI, Node.js, Express, MongoDB, Redis, Socket.IO, WebRTC, AWS, Docker, Nginx, GitHub Actions, PM2, Linux, Razorpay, Sentry, Prometheus, Grafana, Postman, Git" />
+</p>
+
+<sub>Also in the mix: BullMQ, Zod, TanStack Query, Tiptap, GSAP, Framer Motion, Zoom SDK, BigBlueButton, Twilio, OpenAI and Jaeger.</sub>
+
+<br/><br/>
+
+### Get in touch
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/amit-katare-a412a425a"><img src="assets/btn-linkedin.png" width="24%" alt="LinkedIn" /></a>
+  <a href="mailto:akatare098@gmail.com"><img src="assets/btn-email.png" width="24%" alt="Email" /></a>
+  <a href="https://medh.co"><img src="assets/btn-medh.png" width="24%" alt="medh.co" /></a>
+  <a href="https://esampark.biz"><img src="assets/btn-esampark.png" width="24%" alt="esampark.biz" /></a>
+</p>
