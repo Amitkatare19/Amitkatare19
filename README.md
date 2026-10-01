@@ -38,6 +38,14 @@ Hi, I'm Amit — a full-stack engineer at **eSampark Tech Solutions** in Gurugra
 
 <br/><br/>
 
+### Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Amitkatare19/Amitkatare19/output/stats.svg" width="100%" alt="GitHub contribution activity — all-time, last 12 months, current and longest streak" />
+</p>
+
+<br/>
+
 ### Get in touch
 
 <p align="center">
