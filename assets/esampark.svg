@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="500" viewBox="0 0 600 500" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" role="img" aria-label="eSampark — AI-driven BPO &amp; Contact Center">
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2CB67D"/><stop offset="1" stop-color="#0EA5E9"/></linearGradient>
+  <linearGradient id="stroke" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2CB67D" stop-opacity="0.9"/><stop offset="0.6" stop-color="#FFFFFF" stop-opacity="0.06"/><stop offset="1" stop-color="#0EA5E9" stop-opacity="0.6"/></linearGradient>
+  <linearGradient id="bar" x1="0" y1="0" x2="300" y2="0" gradientUnits="userSpaceOnUse" spreadMethod="reflect">
+    <stop offset="0" stop-color="#2CB67D"/><stop offset="1" stop-color="#0EA5E9"/>
+    <animateTransform attributeName="gradientTransform" type="translate" values="0 0;300 0;0 0" dur="6s" repeatCount="indefinite"/>
+  </linearGradient>
+  <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="55"/></filter>
+  <clipPath id="clip"><rect width="600" height="500" rx="24"/></clipPath>
+</defs>
+<style>
+  .fade{animation:fade .7s ease-out both}
+  @keyframes fade{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+  .orb{animation:orb 10s ease-in-out infinite}
+  @keyframes orb{0%,100%{transform:translate(0,0)}50%{transform:translate(-60px,30px)}}
+</style>
+<g clip-path="url(#clip)">
+  <rect width="600" height="500" fill="#0B0F19"/>
+  <circle class="orb" cx="540" cy="40" r="130" fill="#2CB67D" opacity="0.32" filter="url(#blur)"/>
+  <rect width="600" height="4" fill="url(#bar)"/>
+</g>
+<rect x="0.75" y="0.75" width="598.5" height="498.5" rx="24" fill="none" stroke="url(#stroke)" stroke-width="1.5"/>
+
+<g class="fade" style="animation-delay:.05s">
+  <rect x="32" y="32" width="58" height="58" rx="16" fill="url(#g)"/>
+  <text x="61" y="71" text-anchor="middle" font-size="28">🎧</text>
+  <text x="106" y="62" font-size="28" font-weight="800" fill="#F8FAFC">eSampark</text>
+  <text x="106" y="86" font-size="15" font-weight="600" fill="#2CB67D">AI-driven BPO &amp; Contact Center</text>
+  <rect x="440" y="40" width="128" height="28" rx="14" fill="#FFFFFF" fill-opacity="0.06" stroke="#FFFFFF" stroke-opacity="0.14"/>
+  <text x="504" y="59" text-anchor="middle" font-size="13" font-weight="600" fill="#E2E8F0">esampark.biz ↗</text>
+</g>
+<g class="fade" style="animation-delay:.2s">
+  <text x="32" y="132" font-size="15" fill="#CBD5E1">Inbound &amp; outbound, omnichannel support and AI voice</text>
+  <text x="32" y="155" font-size="15" fill="#CBD5E1">ops — I build the website, dashboard and APIs.</text>
+</g>
+<g class="fade" style="animation-delay:0.35s"><rect x="32" y="184" width="260" height="96" rx="16" fill="#FFFFFF" fill-opacity="0.035" stroke="#FFFFFF" stroke-opacity="0.08"/><rect x="32" y="206" width="3" height="52" rx="1.5" fill="#2CB67D"/><text x="52" y="224" font-size="20">🌐</text><text x="84" y="223" font-size="16" font-weight="700" fill="#F1F5F9">Marketing site</text><text x="52" y="254" font-size="13" fill="#94A3B8">Next.js 16 · React 19 · PWA</text></g><g class="fade" style="animation-delay:0.47s"><rect x="308" y="184" width="260" height="96" rx="16" fill="#FFFFFF" fill-opacity="0.035" stroke="#FFFFFF" stroke-opacity="0.08"/><rect x="308" y="206" width="3" height="52" rx="1.5" fill="#2CB67D"/><text x="328" y="224" font-size="20">🛠️</text><text x="360" y="223" font-size="16" font-weight="700" fill="#F1F5F9">Admin CMS</text><text x="328" y="254" font-size="13" fill="#94A3B8">Home builder · blog · FAQs</text></g><g class="fade" style="animation-delay:0.59s"><rect x="32" y="296" width="260" height="96" rx="16" fill="#FFFFFF" fill-opacity="0.035" stroke="#FFFFFF" stroke-opacity="0.08"/><rect x="32" y="318" width="3" height="52" rx="1.5" fill="#2CB67D"/><text x="52" y="336" font-size="20">💼</text><text x="84" y="335" font-size="16" font-weight="700" fill="#F1F5F9">Careers &amp; leads</text><text x="52" y="366" font-size="13" fill="#94A3B8">Jobs · applications · queries</text></g><g class="fade" style="animation-delay:0.71s"><rect x="308" y="296" width="260" height="96" rx="16" fill="#FFFFFF" fill-opacity="0.035" stroke="#FFFFFF" stroke-opacity="0.08"/><rect x="308" y="318" width="3" height="52" rx="1.5" fill="#2CB67D"/><text x="328" y="336" font-size="20">🔐</text><text x="360" y="335" font-size="16" font-weight="700" fill="#F1F5F9">Users &amp; audit</text><text x="328" y="366" font-size="13" fill="#94A3B8">Roles · audit log · bin</text></g>
+<g class="fade" style="animation-delay:0.90s"><rect x="32" y="420" width="84" height="26" rx="13" fill="#2CB67D" fill-opacity="0.12" stroke="#2CB67D" stroke-opacity="0.35"/><text x="74" y="437" text-anchor="middle" font-size="12" font-weight="600" fill="#E2E8F0">Next.js 16</text></g><g class="fade" style="animation-delay:0.96s"><rect x="124" y="420" width="88" height="26" rx="13" fill="#2CB67D" fill-opacity="0.12" stroke="#2CB67D" stroke-opacity="0.35"/><text x="168" y="437" text-anchor="middle" font-size="12" font-weight="600" fill="#E2E8F0">TypeScript</text></g><g class="fade" style="animation-delay:1.02s"><rect x="220" y="420" width="88" height="26" rx="13" fill="#2CB67D" fill-opacity="0.12" stroke="#2CB67D" stroke-opacity="0.35"/><text x="265" y="437" text-anchor="middle" font-size="12" font-weight="600" fill="#E2E8F0">Redux Saga</text></g><g class="fade" style="animation-delay:1.08s"><rect x="317" y="420" width="73" height="26" rx="13" fill="#2CB67D" fill-opacity="0.12" stroke="#2CB67D" stroke-opacity="0.35"/><text x="353" y="437" text-anchor="middle" font-size="12" font-weight="600" fill="#E2E8F0">MongoDB</text></g><g class="fade" style="animation-delay:1.14s"><rect x="398" y="420" width="70" height="26" rx="13" fill="#2CB67D" fill-opacity="0.12" stroke="#2CB67D" stroke-opacity="0.35"/><text x="432" y="437" text-anchor="middle" font-size="12" font-weight="600" fill="#E2E8F0">Tailwind</text></g><g class="fade" style="animation-delay:1.20s"><rect x="475" y="420" width="55" height="26" rx="13" fill="#2CB67D" fill-opacity="0.12" stroke="#2CB67D" stroke-opacity="0.35"/><text x="503" y="437" text-anchor="middle" font-size="12" font-weight="600" fill="#E2E8F0">GSAP</text></g>
+<text class="fade" style="animation-delay:1.3s" x="32" y="478" font-size="13" font-weight="600" fill="#64748B">⚡ Full-stack — site, admin dashboard &amp; REST APIs</text>
+</svg>
