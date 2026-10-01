@@ -18,6 +18,7 @@
 <p align="center">
   <a href="https://github.com/Amitkatare19"><img src="https://komarev.com/ghpvc/?username=Amitkatare19&label=Profile%20views&color=7F5AF0&style=flat-square" alt="Profile views" /></a>
   <a href="https://github.com/Amitkatare19?tab=followers"><img src="https://img.shields.io/github/followers/Amitkatare19?label=Followers&style=flat-square&color=2CB67D&logo=github" alt="Followers" /></a>
+  <a href="https://www.linkedin.com/in/amit-katare-a412a425a"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:akatare098@gmail.com"><img src="https://img.shields.io/badge/Open%20to-Collaborate-0EA5E9?style=flat-square&logo=handshake&logoColor=white" alt="Open to collaborate" /></a>
 </p>
 
@@ -286,6 +287,7 @@ const amit = {
 ## 🤝 Let's connect
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/amit-katare-a412a425a"><img src="https://img.shields.io/badge/LinkedIn-Amit%20Katare-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:akatare098@gmail.com"><img src="https://img.shields.io/badge/Gmail-akatare098%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://github.com/Amitkatare19"><img src="https://img.shields.io/badge/GitHub-Amitkatare19-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
