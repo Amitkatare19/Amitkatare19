@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="72" viewBox="0 0 280 72" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" role="img" aria-label="medh.co">
+<defs>
+  <linearGradient id="stroke" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7F5AF0" stop-opacity="0.7"/><stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.06"/><stop offset="1" stop-color="#2CB67D" stop-opacity="0.6"/></linearGradient>
+  <linearGradient id="brand" x1="0" y1="0" x2="600" y2="0" gradientUnits="userSpaceOnUse" spreadMethod="reflect">
+    <stop offset="0" stop-color="#A78BFA"/><stop offset="0.5" stop-color="#2CB67D"/><stop offset="1" stop-color="#38BDF8"/>
+    <animateTransform attributeName="gradientTransform" type="translate" values="0 0;600 0;0 0" dur="8s" repeatCount="indefinite"/>
+  </linearGradient>
+  <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="60"/></filter>
+  <clipPath id="clip"><rect width="280" height="72" rx="18"/></clipPath>
+</defs>
+<style>
+  .fade{animation:fade .7s ease-out both}
+  @keyframes fade{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+  .pulse{animation:pulse 2s ease-in-out infinite}
+  @keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
+</style>
+<g clip-path="url(#clip)"><rect width="280" height="72" fill="#0B0F19"/><circle cx="280" cy="0" r="70" fill="#7F5AF0" opacity="0.3" filter="url(#blur)"/></g>
+<rect x="0.75" y="0.75" width="278.5" height="70.5" rx="18" fill="none" stroke="url(#stroke)" stroke-width="1.5"/>
+<rect x="14" y="14" width="44" height="44" rx="12" fill="#7F5AF0"/>
+<text x="36" y="43" text-anchor="middle" font-size="18" font-weight="800" fill="#FFFFFF">M</text>
+<text x="72" y="34" font-size="16" font-weight="700" fill="#F8FAFC">medh.co</text>
+<text x="72" y="54" font-size="12.5" fill="#94A3B8">EdTech platform</text>
+<text x="258" y="42" text-anchor="end" font-size="16" fill="#64748B">↗</text>
+</svg>

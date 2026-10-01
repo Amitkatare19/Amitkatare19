@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="168" viewBox="0 0 590 168" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" role="img" aria-label="30-Day UI Challenge — 30 UI builds in 30 days">
+<defs>
+  <linearGradient id="stroke" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7F5AF0" stop-opacity="0.7"/><stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.06"/><stop offset="1" stop-color="#2CB67D" stop-opacity="0.6"/></linearGradient>
+  <linearGradient id="brand" x1="0" y1="0" x2="600" y2="0" gradientUnits="userSpaceOnUse" spreadMethod="reflect">
+    <stop offset="0" stop-color="#A78BFA"/><stop offset="0.5" stop-color="#2CB67D"/><stop offset="1" stop-color="#38BDF8"/>
+    <animateTransform attributeName="gradientTransform" type="translate" values="0 0;600 0;0 0" dur="8s" repeatCount="indefinite"/>
+  </linearGradient>
+  <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="60"/></filter>
+  <clipPath id="clip"><rect width="590" height="168" rx="20"/></clipPath>
+</defs>
+<style>
+  .fade{animation:fade .7s ease-out both}
+  @keyframes fade{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+  .pulse{animation:pulse 2s ease-in-out infinite}
+  @keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
+</style>
+<g clip-path="url(#clip)"><rect width="590" height="168" fill="#0B0F19"/><circle cx="590" cy="0" r="110" fill="#F472B6" opacity="0.25" filter="url(#blur)"/></g>
+<rect x="0.75" y="0.75" width="588.5" height="166.5" rx="20" fill="none" stroke="url(#stroke)" stroke-width="1.5"/>
+<g class="fade">
+  <rect x="28" y="28" width="58" height="58" rx="16" fill="#F472B6" fill-opacity="0.18" stroke="#F472B6" stroke-opacity="0.5"/>
+  <text x="57" y="67" text-anchor="middle" font-size="26">🔥</text>
+  <text x="104" y="54" font-size="20" font-weight="800" fill="#F8FAFC">30-Day UI Challenge</text>
+  <text x="104" y="80" font-size="14" fill="#94A3B8">30 UI builds in 30 days</text>
+  <rect x="104" y="112" width="55" height="26" rx="13" fill="#F472B6" fill-opacity="0.12" stroke="#F472B6" stroke-opacity="0.35"/><text x="131" y="129" text-anchor="middle" font-size="12" font-weight="600" fill="#E2E8F0">HTML</text><rect x="167" y="112" width="46" height="26" rx="13" fill="#F472B6" fill-opacity="0.12" stroke="#F472B6" stroke-opacity="0.35"/><text x="190" y="129" text-anchor="middle" font-size="12" font-weight="600" fill="#E2E8F0">CSS</text>
+  <text x="562" y="52" text-anchor="end" font-size="18" fill="#F472B6">↗</text>
+</g>
+</svg>
